@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi there hobey bin Tariq 👋
 
 <!--
 **HoneyBinTariq/Honeybintariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+honey bin Tariq journalist Blogger writer Member American Society of Journalists and Author's NewYork USA www.asja.org
